@@ -1,0 +1,52 @@
+{
+  "p1": {
+    "name": "Rex",
+    "age": "31",
+    "quote": "The war left its scars on all of us"
+  },
+  "p2": {
+    "name": "Cody",
+    "age": "31",
+    "quote": "This new Empire.. Are we making the galaxy better?"
+  },
+  "p3": {
+    "name": "Hunter",
+    "age": "31",
+    "quote": "Blind allegiance makes you a pawn. A real leader protects his squad."
+  },
+  "p4": {
+    "name": "Jesse",
+    "age": "31",
+    "quote": "Commander Rex, you are in violation of Order 66. I accuse you of treason against the Grand Army of the Republic. You'll be demoted of rank Commander and subject to execution alongside the traitor, Ahsoka Tano."
+  },
+  "p5": {
+    "name": "Echo",
+    "age": "31",
+    "quote": "Its ironic. Clones wanted names instead of numbers, yet now people are signing up to be given numbers."
+  },
+  "p6": {
+    "name": "Fives",
+    "age": "31",
+    "quote": "He has a name. No clone uses their number. Not anymore."
+  },
+  "p7": {
+    "name": "Kix",
+    "age": "31",
+    "quote": "A good droid is a dead one"
+  },
+  "p8": {
+    "name": "Wrecker",
+    "age": "31",
+    "quote": "Don't you do it, Tech!"
+  },
+  "p9": {
+    "name": "Tech",
+    "age": "31",
+    "quote": "There is no time, Wrecker. Plan 99"
+  },
+  "p10": {
+    "name": "Crosshair",
+    "age": "31",
+    "quote": "We're soldiers. We do what needs to be done."
+  }
+}
